@@ -1,0 +1,101 @@
+[33mcommit ee10f502c225284c28f147f5537fa5711ce28117[m[33m ([m[1;36mHEAD -> [m[1;32mAlienAttack[m[33m, [m[1;31morigin/AlienAttack[m[33m)[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sun Jan 9 22:25:50 2022 +0300
+
+    class creat Alien_flot 09/01/22
+
+[33mcommit ee88db7bd7536a14770339cbef3a2473ed595dd7[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sun Jan 9 19:20:28 2022 +0300
+
+    class Alien 09/01/22
+
+[33mcommit b7ca790d37e71822a0dced216a29a936a5b9dafd[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sun Jan 9 19:19:51 2022 +0300
+
+    class Alien 09/01/22
+
+[33mcommit 91015688705261735418554aeea9981838e2291a[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 22:09:45 2022 +0300
+
+    09/01/2022
+
+[33mcommit d0d1b9b004df88388dcc3a583f1651954e41045b[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 22:09:31 2022 +0300
+
+    09/01/2022
+
+[33mcommit c1efd01754f4b3a69d66d0f8f51ade87d64a027c[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 15:51:59 2022 +0300
+
+    Update workspace.xml
+
+[33mcommit 57182e293c4d04ea162921c98429e3c9da10bcd3[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 15:51:53 2022 +0300
+
+    Update settings.py
+
+[33mcommit edde284d74305f76a4eda03f9f7619b2e14e2a48[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 15:34:41 2022 +0300
+
+    Update alien_invasion.py
+
+[33mcommit d68a91ea1a71fc35008f28f0d67b9846123e7694[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 09:23:19 2022 +0300
+
+    Create settings.py
+
+[33mcommit aa57e7c3224092c01383b18b4d5e7ce95570bcd0[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 09:23:05 2022 +0300
+
+    Update workspace.xml
+
+[33mcommit fdee595a1e690abc3e582dc5f82c782ed7ac19e3[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 09:22:56 2022 +0300
+
+    Update alien_invasion.py
+
+[33mcommit 885151fe98db70e0561ac823f6af6149c332eb17[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 00:35:24 2022 +0300
+
+    Create alien_invasion.py
+
+[33mcommit ed002147b721473c6e75912bc728cf724a216cff[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 00:35:14 2022 +0300
+
+    Update workspace.xml
+
+[33mcommit 7f634d3e52862dc716292b56a78073aa35b6401a[m
+Author: milekc <milekc@yandex.ru>
+Date:   Sat Jan 8 00:35:00 2022 +0300
+
+    Update .gitignore
+
+[33mcommit dd68ff2371e13b3e0027e132bdd69d3438c8fa91[m
+Author: milekc <milekc@yandex.ru>
+Date:   Fri Jan 7 23:55:32 2022 +0300
+
+    Create .gitignore
+
+[33mcommit 9c4117ba85bb9632829a10f30b832fcd3df23a38[m
+Author: milekc <milekc@yandex.ru>
+Date:   Fri Jan 7 23:52:41 2022 +0300
+
+    Create workspace.xml
+
+[33mcommit 8e6452aaef6c9828a2039d6363f1860e2cbbf450[m[33m ([m[1;32mmain[m[33m)[m
+Author: milekc <milekc@yandex.ru>
+Date:   Fri Jan 7 23:42:20 2022 +0300
+
+    Initial commit
